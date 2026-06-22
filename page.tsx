@@ -1,0 +1,1 @@
+export default function Page(){return <h1>SafeSphere AI Dashboard</h1>}

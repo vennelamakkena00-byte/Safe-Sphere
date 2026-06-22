@@ -1,0 +1,1 @@
+print('YOLO PPE detection placeholder')
